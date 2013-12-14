@@ -1,0 +1,19 @@
+{
+  "name": "eyearrsea",
+  "version": "0.0.0",
+  "description": "IRC daemon",
+  "main": "server.js",
+  "dependencies": {
+    "carrier": "~0.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "irc"
+  ],
+  "author": "Tyler Brock",
+  "license": "BSD-2-Clause"
+}
