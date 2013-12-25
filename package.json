@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "IRC daemon",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TylerBrock/mongo-chat.git"
+  },
   "dependencies": {
     "carrier": "~0.1.13"
   },
@@ -16,6 +20,6 @@
   "keywords": [
     "irc"
   ],
-  "author": "Tyler Brock",
+  "author": "Tyler Brock <tyler.brock@gmail.com>",
   "license": "BSD-2-Clause"
 }
