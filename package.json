@@ -11,7 +11,8 @@
     "carrier": "~0.1.13"
   },
   "devDependencies": {
-    "mocha": "~1.15.1"
+    "mocha": "~1.15.1",
+    "sinon": "~1.7.3"
   },
   "scripts": {
     "test": "mocha",
